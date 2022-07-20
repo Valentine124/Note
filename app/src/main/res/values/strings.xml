@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_todo_title">Todo\'s</string>
+    <string name="menu_note_title">Notes</string>
+    <string name="fab_content_description">FAB</string>
+    <string name="note_time">00:00 PM</string>
+    <string name="note_title">Title</string>
+    <string name="note_hint">Note something down</string>
+    <string name="menu_undo">Undo</string>
+    <string name="menu_save">Save</string>
+    <string name="note_snapshot">Note snapshot</string>
+    <string name="note_date_time">28 Jan 2021 3:24 PM</string>
+</resources>
